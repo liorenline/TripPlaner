@@ -1,0 +1,15 @@
+# ninja log v7
+1	399	1777583638361204626	CMakeFiles/Trip.dir/main.cpp.o	76539ff8eddd5afd
+475	544	1777583638835208241	Trip	3d6ca35e75ef3af5
+1	475	1777583638362140192	CMakeFiles/Trip.dir/System.cpp.o	ecdd80450897c71e
+2	53	1777585154412312364	build.ninja	e9fe940fb8cb677c
+2	53	1777585154411312325	/home/lioren/CLionProjects/Trip/cmake-build-debug/cmake_install.cmake	e9fe940fb8cb677c
+3	751	1777622860881682383	CMakeFiles/Trip.dir/main.cpp.o	76539ff8eddd5afd
+3	960	1777622860882711940	CMakeFiles/Trip.dir/System.cpp.o	ecdd80450897c71e
+960	1058	1777622861838464853	Trip	3d6ca35e75ef3af5
+5	834	1777623663838383191	CMakeFiles/Trip.dir/main.cpp.o	76539ff8eddd5afd
+6	966	1777623663839382936	CMakeFiles/Trip.dir/System.cpp.o	ecdd80450897c71e
+966	1082	1777623664800137924	Trip	3d6ca35e75ef3af5
+5	737	1777628137605918014	CMakeFiles/Trip.dir/main.cpp.o	76539ff8eddd5afd
+6	919	1777628137606919820	CMakeFiles/Trip.dir/System.cpp.o	ecdd80450897c71e
+919	1031	1777628138519520180	Trip	3d6ca35e75ef3af5

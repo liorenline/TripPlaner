@@ -1,0 +1,6 @@
+Lviv_Station Lviv_Center
+Lviv_Station Lviv_Airport
+Kyiv_Station Kyiv_Center
+Kyiv_Airport Kyiv_Center
+Brovary Kyiv
+Boryspil Kyiv_Airport

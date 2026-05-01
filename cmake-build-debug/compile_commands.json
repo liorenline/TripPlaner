@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lioren/CLionProjects/Trip/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/Trip.dir/main.cpp.o -c /home/lioren/CLionProjects/Trip/main.cpp",
+  "file": "/home/lioren/CLionProjects/Trip/main.cpp",
+  "output": "/home/lioren/CLionProjects/Trip/cmake-build-debug/CMakeFiles/Trip.dir/main.cpp.o"
+},
+{
+  "directory": "/home/lioren/CLionProjects/Trip/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/Trip.dir/System.cpp.o -c /home/lioren/CLionProjects/Trip/System.cpp",
+  "file": "/home/lioren/CLionProjects/Trip/System.cpp",
+  "output": "/home/lioren/CLionProjects/Trip/cmake-build-debug/CMakeFiles/Trip.dir/System.cpp.o"
+}
+]
